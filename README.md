@@ -2,7 +2,7 @@
 
 A responsive, animated personal portfolio built with **React**, showcasing AI/ML, data analytics and frontend projects. Designed with a calm navy, cream and sky-blue palette and deployed on **Vercel**.
 
-**Live site:** [your-project.vercel.app](https://your-project.vercel.app)
+**Live site:** [https://aishwarya-vaidya-portfolio.vercel.app/](https://aishwarya-vaidya-portfolio.vercel.app/)
 
 ## Highlights
 
